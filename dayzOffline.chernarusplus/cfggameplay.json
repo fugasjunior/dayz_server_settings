@@ -1,15 +1,15 @@
 {
-	"version": 122,
+	"version": 123,
 	"GeneralData":
 	{
 		"disableBaseDamage": false,
-		"disableContainerDamage": false,
+		"disableContainerDamage": true,
 		"disableRespawnDialog": false,
 		"disableRespawnInUnconsciousness": false
 	},
     "PlayerData":
 	{
-		"disablePersonalLight": false,
+		"disablePersonalLight": true,
 		"StaminaData":
 		{
 			"sprintStaminaModifierErc": 1.0,
@@ -17,12 +17,12 @@
 			"staminaWeightLimitThreshold": 6000.0,
 			"staminaMax": 100.0,
 			"staminaKgToStaminaPercentPenalty": 1.75,
-			"staminaMinCap": 5.0,
+			"staminaMinCap": 20.0,
 			"sprintSwimmingStaminaModifier": 1.0,
 			"sprintLadderStaminaModifier": 1.0,
-			"meleeStaminaModifier": 1.0,
+			"meleeStaminaModifier": 0.5,
 			"obstacleTraversalStaminaModifier": 1.0,
-			"holdBreathStaminaModifier": 1.0
+			"holdBreathStaminaModifier": 0.7
 		},
 		"ShockHandlingData":
 		{
@@ -79,7 +79,7 @@
 	},
 	"UIData":
 	{
-		"use3DMap": false,
+		"use3DMap": true,
 		"HitIndicationData":
 		{
 			"hitDirectionOverrideEnabled": false,
@@ -94,7 +94,7 @@
 	},
 	"MapData":
 	{
-		"ignoreMapOwnership": false,
+		"ignoreMapOwnership": true,
 		"ignoreNavItemsOwnership": false,
 		"displayPlayerPosition": false,
 		"displayNavInfo": true
