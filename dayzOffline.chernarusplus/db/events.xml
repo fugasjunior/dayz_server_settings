@@ -1135,4 +1135,41 @@
             <child lootmax="0" lootmin="0" max="4" min="1" type="Animal_Rat_White"/>
         </children>
     </event>
+    <event name="VehicleHilux_Spawn">
+        <nominal>5</nominal>
+        <min>2</min>
+        <max>10</max>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <saferadius>1000</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1" />
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_Hilux_Black" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_Hilux_Blue " />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_Hilux_Red" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_Hilux_Silver" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_Hilux_Yellow" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_Hilux_OD" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_Hilux_Pink" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_Hilux_Purple" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_Hilux_TTSKO" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_Hilux_Faded" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_Hilux_DFlek" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_Hilux_OCP" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_Hilux_Geo" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_Hilux_RU" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_Hilux_Tiger" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_Hilux_Moss" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_Hilux_Gold" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_Hilux_Pizza" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_Hilux_Emergency" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_Hilux_Fractal" />
+        </children>
+    </event>
+</events>
 </events>

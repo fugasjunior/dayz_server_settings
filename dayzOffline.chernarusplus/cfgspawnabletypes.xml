@@ -3694,6 +3694,96 @@
 			<item name="Truck_01_Door_2_1_Orange" chance="0.50" />
 		</attachments>
 	</type>
+	<!-- Fractal -->
+	<type name="Techs_Hilux_Fractal">
+		<attachments chance="1.00">
+			<item name="Techs_Hilux_Wheel" chance="0.05" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Techs_Hilux_Wheel" chance="0.05" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Techs_Hilux_Wheel" chance="0.05" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Techs_Hilux_Wheel" chance="0.05" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Techs_Hilux_Wheel" chance="0.05" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.05" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.05" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.05" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.07" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.07" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Techs_Hilux_Driver_Door_Fractal" chance="0.07" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Techs_Hilux_CoDriver_Door_Fractal" chance="0.07" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Techs_Hilux_Hood_Fractal" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Techs_Hilux_Trunk_Fractal" chance="0.10" />
+		</attachments>
+	</type>
+<!-- Emergency -->
+	<type name="Techs_Hilux_Emergency">
+		<attachments chance="1.00">
+			<item name="Techs_Hilux_Wheel" chance="0.05" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Techs_Hilux_Wheel" chance="0.05" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Techs_Hilux_Wheel" chance="0.05" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Techs_Hilux_Wheel" chance="0.05" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Techs_Hilux_Wheel" chance="0.05" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.05" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.05" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.05" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.07" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.07" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Techs_Hilux_Driver_Door_Emergency" chance="0.07" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Techs_Hilux_CoDriver_Door_Emergency" chance="0.07" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Techs_Hilux_Hood_Emergency" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Techs_Hilux_Trunk_Emergency" chance="0.10" />
+		</attachments>
+	</type>
 <!--
 	<type name="V3S_Chassis">
 		<attachments chance="1.00">
