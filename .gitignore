@@ -1,1 +1,7 @@
 storage_*/
+VPPAdminTools/
+DataCache/
+*.RPT
+*.log
+*.ADM
+/profiles/users
