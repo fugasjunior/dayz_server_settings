@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<spawnabletypes>
+    <type name="MagLoaderBox">
+        <attachments chance="0.30">
+            <item name="Battery9V" chance="1.00" />
+        </attachments>
+    </type>
+
+    <type name="MagLoaderBox2">
+        <attachments chance="0.30">
+            <item name="Battery9V" chance="1.00" />
+        </attachments>
+    </type>
+
+    <type name="MagLoaderBox3">
+        <attachments chance="0.30">
+            <item name="Battery9V" chance="1.00" />
+        </attachments>
+    </type>
+</spawnabletypes>
