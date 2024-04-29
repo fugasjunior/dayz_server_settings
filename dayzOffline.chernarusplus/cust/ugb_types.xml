@@ -18,7 +18,7 @@
     </type>
     <type name="UGB_ConcreteBlocks">
         <nominal>20</nominal>
-        <lifetime>7200</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>10</min>
         <quantmin>-1</quantmin>
