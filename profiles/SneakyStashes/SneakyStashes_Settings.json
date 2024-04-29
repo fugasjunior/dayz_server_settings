@@ -1,0 +1,132 @@
+{
+    "j_SneakyRandomGarbageLoot": [
+        "WaterBottle",
+        "SodaCan_Pipsi",
+        "Apple",
+        "BoxCerealCrunchin",
+        "Paper",
+        "PowderedMilk"
+    ],
+    "j_SneakyMedicineCabinetLoot": [
+        "BandageDressing",
+        "PurificationTablets",
+        "CharcoalTablets",
+        "Epinephrine",
+        "Morphine",
+        "SalineBagIV",
+        "Splint",
+        "VitaminBottle",
+        "TetracyclineAntibiotics"
+    ],
+    "j_SneakyAmmoBoxLoot": [
+        "AmmoBox_556x45_20Rnd",
+        "AmmoBox_12gaSluj_10Rnd",
+        "AmmoBox_308Win_20Rnd",
+        "AmmoBox_45ACP_25rnd",
+        "AmmoBox_545x39_20Rnd",
+        "AmmoBox_762x39_20Rnd",
+        "AmmoBox_762x54_20Rnd",
+        "AmmoBox_9x39AP_20Rnd"
+    ],
+    "j_SneakyTrashBinLoot": [
+        "WaterBottle",
+        "SodaCan_Pipsi",
+        "Apple",
+        "BoxCerealCrunchin",
+        "Paper",
+        "PowderedMilk"
+    ],
+    "j_SneakyWoodenCrateLoot": [
+        "VSS",
+        "AK_Suppressor",
+        "M4_Suppressor",
+        "PistolSuppressor",
+        "ACOGOptic",
+        "Mosin9130"
+    ],
+    "j_SneakySodaMachineLoot": [
+        "SodaCan_Cola",
+        "SodaCan_Pipsi",
+        "SodaCan_Kvass",
+        "SodaCan_Spite",
+        "WaterBottle"
+    ],
+    "j_SneakyHardiggLoot": [
+        "WaterBottle",
+        "SodaCan_Pipsi",
+        "Apple",
+        "BoxCerealCrunchin",
+        "Paper",
+        "PowderedMilk"
+    ],
+    "j_SneakyLongHardiggLoot": [
+        "VSS",
+        "AK_Suppressor",
+        "M4_Suppressor",
+        "PistolSuppressor",
+        "ACOGOptic",
+        "Mosin9130"
+    ],
+    "j_SneakyFancyHardiggLoot": [
+        "SodaCan_Cola",
+        "SodaCan_Pipsi",
+        "SodaCan_Kvass",
+        "SodaCan_Spite",
+        "WaterBottle"
+    ],
+    "j_ActivateSneakyLootEvent": 0,
+    "j_SecondsBeforeStart": 900000,
+    "j_TimeBeforeNextEvent": 900000,
+    "j_AmountOfLootCont": 1,
+    "j_SneakyLootEventA": [
+        {
+            "name": "SneakyEventHardigg",
+            "position": [
+                6590.06005859375,
+                281.85699462890627,
+                7474.60986328125
+            ],
+            "orientation": [
+                -124.93299865722656,
+                5.739270210266113,
+                11.242500305175782
+            ],
+            "sneakyLoot": [
+                "AKM",
+                "AK_Suppressor",
+                "Mag_AKM_30Rnd",
+                "Mag_AKM_30Rnd",
+                "SVD",
+                "Mag_SVD_10Rnd",
+                "Mag_SVD_10Rnd",
+                "PSO1Optic",
+                "CombatKnife"
+            ]
+        },
+        {
+            "name": "SneakyEventHardigg",
+            "position": [
+                9438.4697265625,
+                304.0889892578125,
+                8846.400390625
+            ],
+            "orientation": [
+                -124.93299865722656,
+                5.739270210266113,
+                11.242500305175782
+            ],
+            "sneakyLoot": [
+                "AKM",
+                "AK_Suppressor",
+                "Mag_AKM_30Rnd",
+                "Mag_AKM_30Rnd",
+                "SVD",
+                "Mag_SVD_10Rnd",
+                "Mag_SVD_10Rnd",
+                "PSO1Optic",
+                "CombatKnife"
+            ]
+        }
+    ],
+    "j_SneakyLootEventB": []
+}
